@@ -46,7 +46,6 @@ project-root/
 
 ### 1. Navigate to backend and install dependencies
 
-```bash
 cd backend
 npm install express mongoose cors
 
@@ -54,7 +53,8 @@ npm install express mongoose cors
 ### 1. Create React app and install dependencies
         cd frontend
         npm install axios
-```
+
+        
 ### ✅ Run Instructions
 
 **Backend**
