@@ -46,8 +46,8 @@ project-root/
 
 ### 1. Navigate to backend and install dependencies
 
-cd backend
-npm install express mongoose cors
+        cd backend
+        npm install express mongoose cors
 
 ## 💻 Frontend Setup (React + Context API + Tailwind)
 ### 1. Create React app and install dependencies
